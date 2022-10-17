@@ -1,7 +1,11 @@
-# Phonetisaurus
+# Phonetisaurus 
+### 3 modèles de phonétisation du français
 
 ## Général 
-- Les dictionnaires utilisés ici sont des versions corrigées. Les symboles phonétiques ont été modifiés pour que les trois dictionnaires puissent avoir les même symboles. Le désaccord entre les dictionnaires au niveau d'ouverture des voyelles, c'est-à-dire la différence entre o ouvert et o fermé, e ouvert et e fermé, n'a pas été corrigé, car ceci varie selon différent facteurs : région, âge, sexe, pays....
+- Les dictionnaire brut :ux de données pour l'entraînement :point_right: 
+- Les dictionnaires utilisés ici sont issu des versions corrigées. Les symboles phonétiques ont été modifiés pour que les trois dictionnaires puissent avoir les même symboles. Le désaccord au niveau d'ouverture des voyelles, c'est-à-dire la différence entre o ouvert et o fermé, e ouvert et e fermé, n'a pas été corrigé, car ceci varie en fonction des facteurs d'un locuteur à l'autre : région, âge, sexe, pays....
+- 
+
 ## Jeux de données
 Les 3 dictionnaires de phonétisation utilisé ici ont des sources différentes. Voici le tableau récapitulatif.
 ||ZAION|Lexique4Linguistes|FrWikitionnaire|
